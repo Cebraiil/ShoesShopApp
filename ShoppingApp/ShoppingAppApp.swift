@@ -2,7 +2,7 @@
 //  ShoppingAppApp.swift
 //  ShoppingApp
 //
-//  Created by Ayman on 19.01.2023.
+//  by Swiftui.app on 19.01.2023.
 //
 
 import SwiftUI
